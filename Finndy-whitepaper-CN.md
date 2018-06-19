@@ -1,5 +1,5 @@
 # 发源地白皮书
-## Finndy White Paper
+## [Finndy WhitePaper](https://finndy.io/assets/pdf/Finndy-Whitepaper-Latest-CN.pdf)
 ### 基于区块链的去中心化数据交易平台
 ###### V1.1.0
 ###### 2018-05-10
