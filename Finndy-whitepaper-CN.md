@@ -7,30 +7,30 @@ Finndy Team
 2018-05-10
 
 
-前 言	1
-1、项目背景	2
-1.1 当前存在问题	2
-1.2 区块链的价值	3
-1.3 项目社会愿景	4
-2、数据交易方案 	5
-2.1 发源链架构	5
-2.2 数据交易平台	6
-2.3 智能合约	8
-2.4 侧链存储	9
-2.5 数据挖矿模型	9
-3、代币经济模型	11
-3.1 应用场景	11
-3.2 Token发行方案	12
-3.3 资金使用规划	13
-3.4 投资优势分析	14
-4、团队构成	15
-4.1 核心团队	15
-4.2 早期投资人	16
-5、发展与规划	17
-5.1 发展历程	17
-5.2 时间规划	17
-6、项目声明	19
-7、参考文献	20前 言
+前 言 1
+1、项目背景  2
+1.1 当前存在问题  2
+1.2 区块链的价值  3
+1.3 项目社会愿景  4
+2、数据交易方案    5
+2.1 发源链架构   5
+2.2 数据交易平台  6
+2.3 智能合约    8
+2.4 侧链存储    9
+2.5 数据挖矿模型  9
+3、代币经济模型    11
+3.1 应用场景    11
+3.2 Token发行方案   12
+3.3 资金使用规划  13
+3.4 投资优势分析  14
+4、团队构成  15
+4.1 核心团队    15
+4.2 早期投资人   16
+5、发展与规划 17
+5.1 发展历程    17
+5.2 时间规划    17
+6、项目声明  19
+7、参考文献  20前 言
 
 
 近年来，随着互联网经济的高速发展和信息系统及数据库技术的普及，人类社会活动中的越来越多的内容被数字化记录，各个行业和机构所产生的数据呈指数型增长。同时，大数据、云计算及人工智能技术的快速发展极大地提升了人们对数据的加工效率，降低了数据处理成本。数据已成为新时代的石油，正在颠覆各行业的发展。社会从IT时代转变为DT时代。
@@ -193,31 +193,31 @@ Token除了对平台常规操作和超级节点的激励外，主要用于平台
 4.1 核心团队
 
 发源地拥有一个非常有经验的核心团队，团队成员具有多年的区块链和数据交易行业的经验。发源地核心团队均拥有本科或研究生以上学历。主要成员简介如下：
-马建军 Midy	"创始人，数据交易专家、区块链早期核心开发者。
+马建军 Midy    "创始人，数据交易专家、区块链早期核心开发者。
 成功创办多家企业。曾就职于腾讯。致力于区块链技术及生态研究。"
-张林东 Tony	"联合创始人，八年大数据运营经验，资深数据建模专家。
+张林东 Tony    "联合创始人，八年大数据运营经验，资深数据建模专家。
 连续创业者。精通大数据模型开发，丰富数据平台运营经验。"
-安红亮 Andy	"技术合伙人，分布式数据库开发专家，区块链共识算法贡献者。
+安红亮 Andy    "技术合伙人，分布式数据库开发专家，区块链共识算法贡献者。
 曾就职于安居客。多年区块链房产大数据平台开发经验。"
-李邦俊 Mark	"商务合伙人，丰富金融行业经验，公共关系研究专家。
+李邦俊 Mark    "商务合伙人，丰富金融行业经验，公共关系研究专家。
 有多年金融体系渠道开发经验，精通公关政策研究。"
-刘澎 Lewis	"市场合伙人，多年外汇期货交易市场经验，原币多交易所合伙人。
+刘澎 Lewis    "市场合伙人，多年外汇期货交易市场经验，原币多交易所合伙人。
 曾负责过加密货币交易所市场开发，英国TeraFX外汇市场总监。"
-杨华 Evin	"营销合伙人，区块链社群营销专家，拥有百万区块链社群。
+杨华 Evin "营销合伙人，区块链社群营销专家，拥有百万区块链社群。
 比特币资深玩家。13年开始接触比特币期货，曾实现200倍杠杆收益。"
-常萌 Demon	"区块链开发工程师，12万行区块链代码实战经验。
+常萌 Demon    "区块链开发工程师，12万行区块链代码实战经验。
 资深全栈开发工程师。多年大数据+区块链前后端项目开发经验。"
-周明珠 Mingzhu	"区块链开发工程师，去中心化数据架构开发，侧链协议开发者。
+周明珠 Mingzhu "区块链开发工程师，去中心化数据架构开发，侧链协议开发者。
 分布式采集引擎后端架构开发、IFPS去中心化应用开发者。"
-沈庆阳 Chrisas	"大数据开发工程师，海量数据采集架构经验，大数据建模开发者。
+沈庆阳 Chrisas "大数据开发工程师，海量数据采集架构经验，大数据建模开发者。
 高级爬虫工程师。精通爬虫算法开发，擅长多维度数据融合算法。"
 
 
 4.2 早期投资人
-聂新勇 	众合创投、鼎新资本创始合伙人
-陈宇	华山资本创始合伙人
-陈成强	壹诺创投、InnoSpace基金创始合伙人
-杨晓敏	众善创投创始合伙人
+聂新勇     众合创投、鼎新资本创始合伙人
+陈宇  华山资本创始合伙人
+陈成强 壹诺创投、InnoSpace基金创始合伙人
+杨晓敏 众善创投创始合伙人
 
 5、发展与规划
 
@@ -259,6 +259,6 @@ Token除了对平台常规操作和超级节点的激励外，主要用于平台
 
 基于以上原因，请参与者在充分了解团队背景、项目整体框架与生态模式的基础上，合理调整自己的愿景，理性参与。
 
-7、参考文献
+7、参考文献
 
 [1] Jorge Izquierdo. The new operating system for protocols and DApps, https://blog.aragon.one/introducing-aragonos-3-0-alpha-the-new-operating-system-for-protocols-and-dapps-348f7ac92cff, 2018. [2] Cryptonomex. https://github.com/cryptonomex/graphene. [3] 龚鸣.《区块链社会 解码区块链全球应用与投资案例》2016.  [4] Joseph Poon, Thaddeus Dryja. The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments, 2016. [5] GeGao. http://36kr.com/p/5075070.html. [6] Vitalik Buterin. Explanation of DAICOs, https://ethresear.ch/t/explanation-of-daicos/465, 2018. [7] Vitalik Buterin. On Medium-of-Exchange Token Valuations, https://vitalik.ca/general/2017/10/17/moe.html, 2017. [8] Conner Fromknecht. Connecting Blockchains: Instant Cross-Chain Transactions On Lightning, https://blog.lightning.engineering/announcement/2017/11/16/ln-swap.html, 2017. [9] CAICT. http://www.caict.ac.cn/kxyj/qwfb/bps/, 2018. [10] Matus Lestan, Joe Urgo, Alexander Khoriaty. district0x Network: A cooperative of decentralized marketplaces and communities, 2017. [11] 黄世亮. 拒绝付款套利攻击——比特币场外交易的一种攻击手法及防范, https://mp.weixin.qq.com/s?__biz=MzIxNTA0NDQzMA==&mid=2651798518&idx=1&sn=4e91bac98cea5bc600e8429f1af3a728, 2017. [12] RSK Labs. Sidechains, Drivechains, and RSK 2-Way peg Design, https://www.rsk.co/blog/sidechains-drivechains-and-rsk-2-way-peg-design, 2017.
