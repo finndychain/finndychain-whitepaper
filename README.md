@@ -1,5 +1,5 @@
 # 发源链⽩⽪书
-## [FinndyChain White Paper](https://finndychain.io/assets/pdf/Finndy-Whitepaper-Latest-CN.pdf)
+## [FinndyChain-WhitePaper](https://finndychain.io/assets/pdf/Finndy-Whitepaper-Latest-CN.pdf)
 ### 基于超级智能合约的数据⽣态系统
 ##### 关键词：数据挖矿、超级智能合约、DPoW、安全交付、AI建模、侧链存储、授权确权、技术脱敏、切⽚融合    
 ###### V1.0.8    
